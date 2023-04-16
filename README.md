@@ -19,6 +19,9 @@ npm install
 npm start
 ```
 
+![image](https://user-images.githubusercontent.com/11404065/232293300-fa5bc4d9-b717-4645-bef3-7c934399806f.png)
+
+
 ## Contribuire
 
 Il codice è abbastanza semplice e scritto in 1 ora, quindi bando ai pattern e lago alla concretezza.
